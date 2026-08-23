@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "hurricanesmc.mcsh.io",
-    "port": 25565,
+    "ip": "hurricanes.aternos.me",
+    "port": 64748,
     "version": "1.20.1",
     "try-creative": false
   },
